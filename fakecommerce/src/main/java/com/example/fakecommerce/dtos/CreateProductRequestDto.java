@@ -20,7 +20,7 @@ public class CreateProductRequestDto {
 
     private BigDecimal price;
 
-    private String category;
+    private Long categoryId;
 
     private String rating;
 }
